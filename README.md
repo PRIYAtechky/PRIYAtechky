@@ -8,7 +8,7 @@
 <hr/>
 <samp>
 
-<img align="right" width="500" height="290" src="https://media.licdn.com/dms/image/D4D12AQHftEXkNLLDng/article-cover_image-shrink_720_1280/0/1713438624718?e=2147483647&v=beta&t=YpAYPk1v8CdpN8tIcD_Yg80vFqVeopN_DXL23RlHUSE">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering student with a flair for web development, design, and cloud technologies. Below, you'll find a glimpse into my world of coding, creativity, and continuous learning.
 
