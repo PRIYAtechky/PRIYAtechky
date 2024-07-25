@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 ### Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/canva.png" alt="canva"/><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png" alt="external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo"/>
 
 ## 🔗 Connect with Me
 
