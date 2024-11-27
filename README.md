@@ -26,6 +26,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/xZf3Kjrw4v?theme=dark&font=Marmelad&ext=contest)
 
+[![Padmapriya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRIYAtechky&bg_color=ffcfe9&color=543b53&line=da58d2&point=1c1c1c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🔗 Connect with Me
 
 - **📧Email:** [itspadmapriyas.com](mailto:itspadmapriyas@gmail.com)
