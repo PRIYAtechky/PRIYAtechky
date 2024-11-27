@@ -24,6 +24,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 ### Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/canva.png" alt="canva"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png" alt="external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/github.png" alt="github"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/><img width="50" height="50" src="https://img.icons8.com/cute-clipart/64/microsoft-word-2019.png" alt="microsoft-word-2019"/>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/xZf3Kjrw4v?theme=dark&font=Marmelad&ext=contest)
+
 ## 🔗 Connect with Me
 
 - **📧Email:** [itspadmapriyas.com](mailto:itspadmapriyas@gmail.com)
