@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 
 - **📧Email:** [itspadmapriyas.com](mailto:itspadmapriyas@gmail.com)
 - **🛄LinkedIn:** [Padmapriya Saravanaperumal](https://www.linkedin.com/in/padmapriya-saravanaperumal)
+- **🤖Kaggle:** [padmapriya1207](https://www.kaggle.com/padmapriya1207)
 - **🐈‍⬛GitHub:** [PRIYAtechky](https://github.com/PRIYAtechky)
 - **💼Portfolio:**[INNOVATOR TECHSAVVY](https://priyatechky.neocities.org/my%20portfolio/)
 
