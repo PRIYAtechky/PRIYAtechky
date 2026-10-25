@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
   <img src="https://img.icons8.com/cute-clipart/64/microsoft-word-2019.png" width="50"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" width="50"/>
   <img src="https://img.icons8.com/color/48/spring-logo.png" width="50"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/xZf3Kjrw4v?theme=dark&font=Marmelad&ext=contest)
