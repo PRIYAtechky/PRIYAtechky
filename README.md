@@ -36,8 +36,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png" width="50"/>
   <img src="https://img.icons8.com/fluency/48/github.png" width="50"/>
   <img src="https://img.icons8.com/dusk/64/postman-api.png" width="50"/>
-  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="50"/>
-  <img src="https://img.icons8.com/cute-clipart/64/microsoft-word-2019.png" width="50"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" width="50"/>
   <img src="https://img.icons8.com/color/48/spring-logo.png" width="50"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
